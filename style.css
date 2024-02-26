@@ -26,10 +26,11 @@ h2{
     display: flex;
     flex-wrap: wrap;
     border-radius: 10px;
-    margin-left: 40%;
     box-shadow: 7px 4px 34px 12px rgba(0,0,0,0.68);
     -webkit-box-shadow: 7px 4px 34px 12px rgba(0,0,0,0.68);
     -moz-box-shadow: 7px 4px 34px 12px rgba(0,0,0,0.68);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .square{
